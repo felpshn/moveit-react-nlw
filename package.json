@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "format": "prettier --check \"src/**/*.ts\" --write"
+    "format": "prettier --check \"src/**/*.tsx\" --write"
   },
   "dependencies": {
     "next": "11.1.0",
